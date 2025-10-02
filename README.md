@@ -1,2 +1,2 @@
-# health-suggestion-rag
-A health suggestion system using RAG architecture
+# Health Suggestion RAG
+This project provides health suggestions based on user inputs.
